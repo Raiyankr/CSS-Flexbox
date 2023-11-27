@@ -26,7 +26,7 @@ There are two things we need to understand in order to use FlexBox.
 - Flex Container: This container will contain some items from our webpage. This container will also define the organization property of the items combined.
 - Flex Item: These can be individual components in our webpage (anywhere from a div, to a nested div).
 
-We can create a Flex Container by using the _Displat: Flex_ property. This simply makes our container *Flex 💪🏻*. 
+We can create a Flex Container by using  "_Displat: Flex_" property. This simply makes our container *Flex 💪🏻*. 
 
 ## Tips and Tricks 
 
