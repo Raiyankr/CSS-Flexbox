@@ -31,15 +31,17 @@ Before we learn about flex containers, lets talk about flex items. These are any
 ![flex-items](https://github.com/Raiyankr/CSS-Flexbox/assets/110127056/6d4ca084-3323-4971-bd9e-8f9a29d635d6)
 ![flex-item-example](https://github.com/Raiyankr/CSS-Flexbox/assets/110127056/31a39299-5dc9-42a2-b503-c1b9f038012d)
 
-In the above pictures, we have four items in our flex-container. These items will appear in the same order we add them in.
+In the above pictures, we have four items in our flex-container. These items will appear in the same order we add them in. It is sufficient to know this much about flex items for now. Let us now learn how we can create a Flex Container. We can do so by using  "_Displat: Flex_" property. This simply makes our container *Flex 💪🏻*. 
 
-We can create a Flex Container by using  "_Displat: Flex_" property. This simply makes our container *Flex 💪🏻*. There are lots of other properties that we can explore in the container such as:
+![flex-container](https://github.com/Raiyankr/CSS-Flexbox/assets/110127056/f7046d53-67bf-4289-80bb-cbb74c7a5276)
+
+There are lots of other properties that we can play around with in our container such as:
 - flex-direction
 - flex-wrap
 - justify-content
 - align-content
-These are only a few of the useful ones. 
 
+These are to name a few properties. These properties can be used to change how we want to oprganize our items (vertically or horizontally), whether we want to center our whole container, whether we want to center our items, how do we want to space the items, etc. 
 
 ## Tips and Tricks 
 
