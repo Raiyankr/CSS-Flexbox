@@ -47,7 +47,7 @@ These are to name a few properties. These properties can be used to change how w
 ![flex-properties](https://github.com/Raiyankr/CSS-Flexbox/assets/110127056/27c9a05e-7c0d-472a-b3f7-8afc27a80373)
 [Image source](https://www.bitdegree.org/learn/css-flexbox)
 
-To learn more about these properties, ![W3schools](https://www.w3schools.com/css/css3_flexbox.asp) is a great source!
+To learn more about these properties, ![link](https://www.bitdegree.org/learn/css-flexbox) is a great source!
 
 ## Tips and Tricks 
 
