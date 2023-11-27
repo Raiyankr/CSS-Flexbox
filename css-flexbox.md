@@ -2,7 +2,7 @@
 
 ## Table of contents
 ### [Introduction](#introduction)
-### [Why use flexbox?](#usecase)
+### [How to use flexbox?](#usecase)
 ### [Tips and Tricks](#tips-and-tricks)
 
 
@@ -16,9 +16,13 @@ Flexible Box Layout or often known as FlexBox, is a CSS layout model that allows
 
 These four layout modes required lots of code to do some simple tasks like “Centering a div”. This is where FlexBox comes in clutch! This not only made coding easier but also opened CSS Webpage-organization to a whole new level. 
 
-## Why use flexbox?
+## How to use FlexBox?
 
-we want to use it because ...
+There are two things we need to understand in order to use FlexBox. 
+- Flex Container: This container will contain some items from our webpage. This container will also define the organization property of the items combined.
+- Flex Item: These can be individual components in our webpage (anywhere from a div, to a nested div).
+
+We can create a Flex Container by using the _Displat: Flex_ property. This simply makes our container *Flex 💪🏻*. 
 
 ## Tips and Tricks 
 
