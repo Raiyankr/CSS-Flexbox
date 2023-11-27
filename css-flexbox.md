@@ -15,8 +15,6 @@ Flexible Box Layout or often known as FlexBox, is a CSS layout model that allows
 -	Positioned: To mentioned specific position for items. 
 
 These four layout modes required lots of code to do some simple tasks like “Centering a div”. This is where FlexBox comes in clutch! This not only made coding easier but also opened CSS Webpage-organization to a whole new level. 
-![image](https://github.com/Raiyankr/CSS-Flexbox/assets/110127056/c4890b85-a141-4b17-b864-ec1299325202)
-
 
 ## Why use flexbox?
 
